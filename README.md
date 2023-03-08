@@ -35,17 +35,17 @@ During a busy day it is hard to keep track of all that needs to be done while al
 
 The following images show the application in action. This is a link to the deployed website: 
 
-This image shows the passed tests:
+This image shows the landing page with a button to get started:
 
-<img src="images/.png" alt="An image of "/>
+<img src="assets/landing-page.png" alt="An image of the landing page. "/>
 
-This image shows the user input above:
+This image shows the user creating a new note:
 
-<img src="images/.png" alt="An image of "/>
+<img src="assets/writing-note.png" alt="An image of a written note. "/>
 
-This image shows the generated application:
+This image shows that the new note has been saved:
 
-<img src="images/.png" alt="An image of"/>
+<img src="assets/saved-note.png" alt="An image of"/>
 
 
  
