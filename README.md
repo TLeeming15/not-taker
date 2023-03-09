@@ -33,7 +33,7 @@ During a busy day it is hard to keep track of all that needs to be done while al
 
 ## Usage
 
-The following images show the application in action. This is a link to the deployed website: 
+The following images show the application in action. This is a link to the deployed website: https://fierce-mountain-37204.herokuapp.com/
 
 This image shows the landing page with a button to get started:
 

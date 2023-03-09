@@ -1,3 +1,4 @@
+// dependencies
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
@@ -33,7 +34,7 @@ app.post('/api/notes', (req, res) => {
 
   res.json(notes)
 });
-
+// sends data
 app.get('*', (req, res) =>
 res.sendFile('index.html', ROOT)
 );
